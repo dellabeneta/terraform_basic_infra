@@ -1,3 +1,3 @@
 # terraform_basic_infra
 
-Teste
+Minha infra básica para Labs na AWS.
