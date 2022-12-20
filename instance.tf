@@ -10,3 +10,4 @@ resource "aws_instance" "server" {
     Name = "server"
   }
 }
+//michel
